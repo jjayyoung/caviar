@@ -1,0 +1,7 @@
+Purpose:
+
+Visualize estimated CAViaR Value-at-Risk models and backtests
+Learn to use the plotly python API
+
+Data were created using MATLAB scripts. 
+Data will be exported for use with python and plotly.
